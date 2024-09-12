@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/emon1/OneDrive/Desktop/MLflow%20Basic/mlruns/0/40eaa3a1b9354470a9c8cf2ff4e8d6c5/artifacts
+end_time: 1726127219879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40eaa3a1b9354470a9c8cf2ff4e8d6c5
+run_name: righteous-donkey-969
+run_uuid: 40eaa3a1b9354470a9c8cf2ff4e8d6c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726127204731
+status: 3
+tags: []
+user_id: emon1

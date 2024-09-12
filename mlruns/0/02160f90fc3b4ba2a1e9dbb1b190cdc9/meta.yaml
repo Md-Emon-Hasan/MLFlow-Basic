@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/emon1/OneDrive/Desktop/MLflow%20Basic/mlruns/0/02160f90fc3b4ba2a1e9dbb1b190cdc9/artifacts
+end_time: 1726127901528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02160f90fc3b4ba2a1e9dbb1b190cdc9
+run_name: gentle-fish-36
+run_uuid: 02160f90fc3b4ba2a1e9dbb1b190cdc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726127893860
+status: 3
+tags: []
+user_id: emon1

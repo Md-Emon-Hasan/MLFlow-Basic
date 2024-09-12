@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/emon1/OneDrive/Desktop/MLflow%20Basic/mlruns/0/e34053b1be604a6f93faf32594be7fc5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e34053b1be604a6f93faf32594be7fc5
+run_name: able-calf-968
+run_uuid: e34053b1be604a6f93faf32594be7fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726132186263
+status: 1
+tags: []
+user_id: emon1

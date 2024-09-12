@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/emon1/OneDrive/Desktop/MLflow%20Basic/mlruns/0/eb4f3953781742b0ab9a3877e2d82888/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb4f3953781742b0ab9a3877e2d82888
+run_name: secretive-toad-273
+run_uuid: eb4f3953781742b0ab9a3877e2d82888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726131843085
+status: 1
+tags: []
+user_id: emon1

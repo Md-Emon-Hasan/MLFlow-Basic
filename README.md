@@ -1,4 +1,4 @@
-# 📧 MLFlow Basic: Simplified Model Management
+# MLFlow Basic: Simplified Model Management
 
 Welcome to the **MLFlow Basic** repository! This project showcases a foundational approach to managing machine learning models using MLFlow. It demonstrates model tracking, versioning, and experiment management in a streamlined manner.
 
